@@ -31,7 +31,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/WangYouxin/calligraphy-skills.git
+git clone https://github.com/wang-youxin/calligraphy-skills.git
 
 # 2. 复制技能到 Claude Code 用户目录
 cp -r calligraphy-skills/skills/* ~/.claude/skills/
